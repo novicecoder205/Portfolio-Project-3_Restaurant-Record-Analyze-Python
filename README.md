@@ -39,3 +39,20 @@ From the results from head to tail, show the first order be places on the 01/01/
 . Another problem arises, the column “item_id” only have 12,097 value that is not empty, while the total entry is 12,234, meaning there are 137 missing values. 
 
 
+### Task 3: Cleaning Missing Value.
+. With the 137 missing values from 137s rows, those 137 row must be drops since the other information from the other columns on the rows where "item_id" is noneexistence is not useful, since it is missing.
+. This need to be address to the project leader, so an investigation on why those ID are missing in the first place.
+
+<img width="478" height="482" alt="image" src="https://github.com/user-attachments/assets/8a16936c-ccbd-455b-bf60-e7cbbd63ed2e" />
+
+. After applying the dropna, the officials amount of rows is drops to 12097, and we save the change to our dataframe.
+
+<img width="589" height="176" alt="image" src="https://github.com/user-attachments/assets/fba2d951-6610-45a7-959e-0877bb678b1c" />
+
+### Task 4: Joining the two tables.
+<img width="362" height="535" alt="image" src="https://github.com/user-attachments/assets/bb0f65f4-b8e6-4d4d-a08d-9ee071bd2552" />
+
+. After loading the dataset, there seem to be no missing values, and the columns data and their types seem to be accurates. 
+. Now we create a new dataframe to join the two.
+
+<img width="689" height="294" alt="image" src="https://github.com/user-attachments/assets/701a661c-0622-4aa0-b4a4-47a884f03379" />
