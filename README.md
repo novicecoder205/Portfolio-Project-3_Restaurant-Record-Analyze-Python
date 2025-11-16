@@ -1,7 +1,7 @@
 # Project title: "Restaurant Records Analysis"
 <br>
 ### Introduction: 
-As a data analyst, I was approached by the owners of a local mom-and-pop restaurant who were growing increasingly concerned about rising operational costs. They needed someone to thoroughly examine their order records and uncover insights that could help them manage expenses more effectively. Let me walk you through how I approached and implemented this analysis.
+As a data analyst, I was approached by the owners of a local mom-and-pop restaurant who were growing increasingly concerned about rising operational costs. They needed someone to thoroughly examine their order records and uncover insights that could help them manage expenses more effectively. Let me walk you through how I approached and implemented this analysis.<br>
 
 <br>
 ### Primary Goal:
